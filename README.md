@@ -1,4 +1,3 @@
-
 # Sierra Loader
 
 Sierra is a versatile and secure remote loader, developed in Delphi, designed for encrypted networking and flexible execution of payloads. It includes essential features like AES encryption, persistence mechanisms, and real-time client monitoring, all crafted in just one day. As an early release, I welcome bug reports and feature suggestions to enhance Sierra further.
@@ -45,6 +44,8 @@ Donations are much appricated and push me to continue this project and create mo
 - **LTC:** LL4ehRQGQfiPqCWu3HWHUDXR2RbRtYJZPs
 
 ## Acknowledgements
+
+**If you use this source, please give me my credits linking my github! Thank you.**
 
 Sierra has been developed primarily for educational purposes to demonstrate the concepts of remote administration, secure networking, and client management. It serves as an example of how encryption, remote scripting, and persistence mechanisms can be implemented, providing an opportunity to learn and understand how such systems function.
 
