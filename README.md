@@ -41,8 +41,8 @@ Thank you CodePulze for his GoDefender anti debugging methods!
 ## Donations
 
 Donations are much appricated and push me to continue this project and create more!, donte via BTC or LTC. 
-**BTC:** bc1q0naspp2q3v85lz996v52cszcwwtsw56y49me83 
-**LTC:** LL4ehRQGQfiPqCWu3HWHUDXR2RbRtYJZPs
+- **BTC:** bc1q0naspp2q3v85lz996v52cszcwwtsw56y49me83 
+- **LTC:** LL4ehRQGQfiPqCWu3HWHUDXR2RbRtYJZPs
 
 ## Acknowledgements
 
