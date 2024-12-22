@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/20 20:54:40.000.013,=C:\Users\oline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/20 20:54:49.000.440,C:\Users\oline\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\oline\Documents\Embarcadero\Studio\Projects\SierraLoader.dproj</Transaction>
+    <Transaction>2024/12/20 20:54:56.000.656,C:\Users\oline\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmMain.pas</Transaction>
+    <Transaction>2024/12/20 20:54:56.000.656,C:\Users\oline\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmMain.dfm</Transaction>
+    <Transaction>2024/12/20 20:56:17.000.199,C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmMain.dfm=C:\Users\oline\Desktop\FreeLoader\Attacker\FrmMain.dfm</Transaction>
+    <Transaction>2024/12/20 20:56:17.000.199,C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmMain.pas=C:\Users\oline\Desktop\FreeLoader\Attacker\FrmMain.pas</Transaction>
+    <Transaction>2024/12/20 20:56:20.000.479,C:\Users\oline\Documents\Embarcadero\Studio\Projects\SierraLoader.dproj=C:\Users\oline\Documents\Embarcadero\Studio\Projects\SierraLoader.dproj</Transaction>
+    <Transaction>2024/12/20 21:08:41.000.287,=C:\Users\oline\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/12/20 21:08:45.000.814,C:\Users\oline\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmAbout.pas</Transaction>
+    <Transaction>2024/12/20 21:08:45.000.814,C:\Users\oline\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmAbout.dfm</Transaction>
+    <Transaction>2024/12/20 21:17:35.000.434,C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmAbout.pas=C:\Users\oline\Desktop\FreeLoader\Attacker\FrmAbout.pas</Transaction>
+    <Transaction>2024/12/20 21:17:35.000.434,C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmAbout.dfm=C:\Users\oline\Desktop\FreeLoader\Attacker\FrmAbout.dfm</Transaction>
+    <Transaction>2024/12/20 21:22:04.000.318,=C:\Users\oline\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2024/12/20 21:22:10.000.130,C:\Users\oline\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmScripting.dfm</Transaction>
+    <Transaction>2024/12/20 21:22:10.000.130,C:\Users\oline\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmScripting.pas</Transaction>
+    <Transaction>2024/12/20 21:23:04.000.867,C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmScripting.dfm=C:\Users\oline\Desktop\FreeLoader\Attacker\FrmScripting.dfm</Transaction>
+    <Transaction>2024/12/20 21:23:04.000.867,C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmScripting.pas=C:\Users\oline\Desktop\FreeLoader\Attacker\FrmScripting.pas</Transaction>
+    <Transaction>2024/12/20 21:45:37.000.678,=C:\Users\oline\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/12/20 21:45:42.000.901,C:\Users\oline\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmExecute.pas</Transaction>
+    <Transaction>2024/12/20 21:45:42.000.901,C:\Users\oline\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmExecute.dfm</Transaction>
+    <Transaction>2024/12/20 21:50:26.000.842,C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmExecute.pas=C:\Users\oline\Desktop\FreeLoader\Attacker\FrmExecute.pas</Transaction>
+    <Transaction>2024/12/20 21:50:26.000.842,C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmExecute.dfm=C:\Users\oline\Desktop\FreeLoader\Attacker\FrmExecute.dfm</Transaction>
+    <Transaction>2024/12/21 19:15:16.000.214,=C:\Users\oline\Desktop\FreeLoader\Attacker\Daemon.exe</Transaction>
+    <Transaction>2024/12/21 19:18:41.000.401,C:\Users\oline\Desktop\FreeLoader\Attacker\Daemon.exe=</Transaction>
+    <Transaction>2024/12/21 19:19:19.000.201,=C:\Users\oline\Desktop\FreeLoader\Attacker\Daemon.exe</Transaction>
+    <Transaction>2024/12/21 20:23:20.000.278,C:\Users\oline\Desktop\FreeLoader\Attacker\Daemon.exe=</Transaction>
+    <Transaction>2024/12/21 20:23:44.000.587,=C:\Users\oline\Desktop\FreeLoader\Client\Win32\Release\Daemon.exe</Transaction>
+    <Transaction>2024/12/21 20:35:25.000.990,C:\Users\oline\Desktop\FreeLoader\Client\Win32\Release\Daemon.exe=</Transaction>
+    <Transaction>2024/12/21 23:40:10.000.245,=C:\Users\oline\Desktop\FreeLoader\Client\Win32\Release\Daemon.exe</Transaction>
+    <Transaction>2024/12/22 00:12:50.000.472,C:\Users\oline\Desktop\FreeLoader\Client\Win32\Release\Daemon.exe=</Transaction>
+    <Transaction>2024/12/22 00:22:47.000.331,=C:\Users\oline\Desktop\FreeLoader\Client\Win32\Release\Daemon.exe</Transaction>
+    <Transaction>2024/12/22 00:22:59.000.186,C:\Users\oline\Desktop\FreeLoader\Client\Win32\Release\Daemon.exe=</Transaction>
+    <Transaction>2024/12/22 00:23:20.000.135,=C:\Users\oline\Desktop\FreeLoader\Client\Win32\Release\Daemon.exe</Transaction>
+    <Transaction>2024/12/22 19:37:10.000.187,C:\Users\oline\Desktop\FreeLoader\Attacker\FrmAbout.pas=</Transaction>
+    <Transaction>2024/12/22 19:37:10.000.229,C:\Users\oline\Desktop\FreeLoader\Attacker\FrmExecute.pas=</Transaction>
+    <Transaction>2024/12/22 19:37:11.000.576,C:\Users\oline\Desktop\FreeLoader\Attacker\FrmMain.pas=</Transaction>
+    <Transaction>2024/12/22 19:37:11.000.597,C:\Users\oline\Desktop\FreeLoader\Attacker\FrmScripting.pas=</Transaction>
+    <Transaction>2024/12/22 19:37:26.000.668,C:\Users\oline\Desktop\FreeLoader\Client\Win32\Release\Daemon.exe=</Transaction>
+    <Transaction>2024/12/22 19:37:32.000.997,=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmExecute.pas</Transaction>
+    <Transaction>2024/12/22 19:37:32.000.887,=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmAbout.pas</Transaction>
+    <Transaction>2024/12/22 19:37:35.000.153,=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmScripting.pas</Transaction>
+    <Transaction>2024/12/22 19:37:35.000.015,=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmMain.pas</Transaction>
+    <Transaction>2024/12/22 19:38:10.000.895,=C:\Users\oline\Desktop\FreeLoader\Attacker\FrmExecute.pas</Transaction>
+    <Transaction>2024/12/22 19:38:10.000.844,=C:\Users\oline\Desktop\FreeLoader\Attacker\FrmAbout.pas</Transaction>
+    <Transaction>2024/12/22 19:38:12.000.690,=C:\Users\oline\Desktop\FreeLoader\Attacker\FrmScripting.pas</Transaction>
+    <Transaction>2024/12/22 19:38:12.000.568,=C:\Users\oline\Desktop\FreeLoader\Attacker\FrmMain.pas</Transaction>
+    <Transaction>2024/12/22 19:38:28.000.497,C:\Users\oline\Desktop\FreeLoader\Attacker\FrmAbout.pas=</Transaction>
+    <Transaction>2024/12/22 19:38:28.000.553,C:\Users\oline\Desktop\FreeLoader\Attacker\FrmMain.pas=</Transaction>
+    <Transaction>2024/12/22 19:38:28.000.521,C:\Users\oline\Desktop\FreeLoader\Attacker\FrmExecute.pas=</Transaction>
+    <Transaction>2024/12/22 19:38:28.000.573,C:\Users\oline\Desktop\FreeLoader\Attacker\FrmScripting.pas=</Transaction>
+    <Transaction>2024/12/22 19:39:06.000.079,=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmMain.pas</Transaction>
+    <Transaction>2024/12/22 19:39:17.000.235,=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmExecute.pas</Transaction>
+    <Transaction>2024/12/22 19:39:17.000.364,=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmScripting.pas</Transaction>
+    <Transaction>2024/12/22 19:39:17.000.166,=C:\Users\oline\Documents\Embarcadero\Studio\Projects\FrmAbout.pas</Transaction>
+    <Transaction>2024/12/22 19:40:23.000.862,=C:\Users\oline\Documents\Embarcadero\Studio\Projects\Daemon.exe</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="FrmMain.pas"/>
+    <File Path="FrmMain.dfm"/>
+    <File Path="FrmAbout.pas"/>
+    <File Path="FrmAbout.dfm"/>
+    <File Path="FrmExecute.pas"/>
+    <File Path="FrmExecute.dfm"/>
+    <File Path="FrmScripting.pas"/>
+    <File Path="FrmScripting.dfm"/>
+    <File Path="Daemon.exe"/>
+  </ProjectSortOrder>
+</BorlandProject>
