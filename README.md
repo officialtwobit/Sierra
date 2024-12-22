@@ -16,7 +16,7 @@ Sierra is a versatile and secure remote loader, developed in Delphi, designed fo
 - **Multithreading Support**: Handle multiple clients simultaneously for efficient management.
 ## Screenshots
 
-![App Screenshot](https://private-user-images.githubusercontent.com/188244569/398010162-e85ef1ba-7149-4399-a486-b899983176b9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ4OTkxMjksIm5iZiI6MTczNDg5ODgyOSwicGF0aCI6Ii8xODgyNDQ1NjkvMzk4MDEwMTYyLWU4NWVmMWJhLTcxNDktNDM5OS1hNDg2LWI4OTk5ODMxNzZiOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMlQyMDIwMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNjc0MTYzMDUyYmU2ZjMyNmUzZWJhMmVjMTZkM2JjZjVmZmIyNDc2OWU2ODY2NDIzZWZiOGFlNWQzODJlMmE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.o59GOft0GB8R78fpZ7wZbrYUv0tn4oLOrNPgvcC5ND8)
+![App Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/188244569/398010162-e85ef1ba-7149-4399-a486-b899983176b9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241222T224539Z&X-Amz-Expires=300&X-Amz-Signature=c04ef1328530332a8401c3f8a2c7878cfae708a2b1c79e7f2bce4e84338a7ead&X-Amz-SignedHeaders=host)
 
 
 ## Tech Stack
